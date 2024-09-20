@@ -1,1 +1,4 @@
+*.in
+*.out
+*.pyc
 Testing GitLab settings. Ignore this file
